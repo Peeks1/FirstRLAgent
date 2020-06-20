@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\mattp\\Anaconda3\\envs\\gym\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pycodestyleEnabled": false
+}
